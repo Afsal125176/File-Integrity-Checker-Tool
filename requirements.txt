@@ -1,0 +1,10 @@
+# File Integrity Checker - CODTECH Internship Task 1
+# Python Standard Library Dependencies (no external installs needed)
+
+# Recommended Python Version
+python>=3.8
+
+# Libraries Used
+hashlib
+os
+json
